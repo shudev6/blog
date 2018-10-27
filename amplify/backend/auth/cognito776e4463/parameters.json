@@ -1,0 +1,16 @@
+{
+    "identityPoolName": "blog_identitypool_0fabfe95",
+    "allowUnauthenticatedIdentities": true,
+    "thirdPartyAuth": false,
+    "lambdaLogPolicy": "blog_lambda_log_policy",
+    "openIdLambdaRoleName": "blog_openid_lambda_role",
+    "openIdRolePolicy": "blog_openid_pass_role_policy",
+    "openIdLambdaIAMPolicy": "blog_openid_lambda_iam_policy",
+    "openIdLogPolicy": "blog_openid_lambda_log_policy",
+    "authSelections": "identityPoolOnly",
+    "resourceName": "cognito776e4463",
+    "unAuthRoleName": "blog-20181027183226-unauthRole",
+    "authRoleName": "blog-20181027183226-authRole",
+    "unAuthRoleArn": "arn:aws:iam::263130919642:role/blog-20181027183226-unauthRole",
+    "authRoleArn": "arn:aws:iam::263130919642:role/blog-20181027183226-authRole"
+}

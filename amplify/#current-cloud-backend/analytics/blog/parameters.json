@@ -1,0 +1,11 @@
+{
+    "appName": "blog",
+    "roleName": "pinpointLambdaRole23fcc3e4",
+    "cloudWatchPolicyName": "cloudWatchPolicy23fcc3e4",
+    "pinpointPolicyName": "pinpointPolicy23fcc3e4",
+    "authPolicyName": "pinpoint_amplify_23fcc3e4",
+    "unauthPolicyName": "pinpoint_amplify_23fcc3e4",
+    "authRoleName": "blog-20181027183226-authRole",
+    "unauthRoleName": "blog-20181027183226-unauthRole",
+    "IAMPrefix": "263130919642"
+}
